@@ -5,5 +5,5 @@ int main () {
 	printf("hello, world!");
 	printf("\n");
 	
-	return 1;
+	return 8;
 }
